@@ -78,7 +78,7 @@ print  """
 \33[34;1m░H░A░T░E░L░A░
 \33[34;1m░P░A░K░ ░H░A░C░K░E░R░
 \33[31;1m🅿🅰🅺🅸🆂🆃🅰🅽 🆉🅸🅽🅳🅰🅱🅰🅳
-\33[31;1m𝗩𝗜𝗦𝗜𝗧 𝗢𝗨𝗥 𝗖𝗛𝗔𝗡𝗡𝗘𝗟
+\33[31;1mWhatsapp: 03356134860
 \33[31;1mC͎H͎A͎N͎N͎E͎L͎ ͎N͎A͎M͎E͎=͎ ͎MASOOM TRICKER
 \33[31;1mLOADING........
 \033[0;39m[\033[0;92m •• \033[0;39m] Author   : Hatela X Saud
